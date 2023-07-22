@@ -20,7 +20,7 @@ It is very important to delete or fake EXIF data before you post it online becau
 
 ## Features
 
-- **Read, delete or fake exif-data**
+- **Read, delete and/or fake exif-data**
 
 ## Usage
 
