@@ -16,6 +16,7 @@ It is very important to delete or fake EXIF data before you post it online becau
 
 ## Technologies
 
+- exiv2 
 - Bash
 
 ## Features
