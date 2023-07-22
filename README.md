@@ -23,8 +23,9 @@ It is very important to delete or fake EXIF data before you post it online becau
 - **Read, delete or fake exif-data**
 
 ## Usage
-Can be executed directly from the command line.
-For more information you can find it in cheat_sheet.
+
+- Can be executed directly from the command line.
+- For more information you can find it in cheat_sheet.
 
 ```
 git clone https://github.com/gma1k/exif-data.git
